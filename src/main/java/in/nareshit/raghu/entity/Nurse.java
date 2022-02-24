@@ -6,6 +6,9 @@ public class Nurse {
 	
 	private String firstName;
 	private String LastName;
+	private String address;
+	private Long Phno;
+	
 	
 
 }
